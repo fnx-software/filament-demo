@@ -1,0 +1,16 @@
+# ===========================
+# Application
+# ===========================
+
+vendor
+.phpunit.result.cache
+build
+composer.lock
+phpstan.neon
+phpunit.xml
+
+# ===========================
+# IDE
+# ===========================
+
+.idea
